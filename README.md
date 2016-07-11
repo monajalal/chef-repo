@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 ========
 
@@ -26,3 +27,7 @@ Next Steps
 ==========
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
+=======
+# chef-repo
+learning Chef one recipe and cookbook at a time
+>>>>>>> 15aa5a3079031722afdee8f01133607ee9ddd218
